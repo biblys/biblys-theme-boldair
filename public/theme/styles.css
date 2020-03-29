@@ -12,3 +12,8 @@
   width: 95%;
   max-width: 768px;
 }
+
+.article .cover {
+  margin: 25px 0;
+  max-width: 100%;
+}
